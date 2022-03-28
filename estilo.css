@@ -1,0 +1,65 @@
+*{
+	font-family: 'Montserrat', sans-serif;
+	line-height: 1.5;
+  
+}
+img{
+
+width: 1350px;
+
+}
+h3, a, p{
+font-family: 'Montserrat', sans-serif;
+color: #D6D6D6;
+line-height: 1.5;
+font-size: 2em;
+}
+video{
+	width: 800px;
+	border: 20px solid black;
+	border-radius: 5em;
+
+}
+h1{
+font-family: 'Montserrat', sans-serif;
+color: #FFEE32;
+line-height: 1.5;
+font-size: 2em;
+
+}
+h2{
+font-family: 'Montserrat', sans-serif;
+color: #D6D6D6;
+line-height: 1.5;
+font-size: 2em;
+
+}
+b{
+color: #ffd100;
+
+}
+.avalanchasur{
+	padding: 1px 1px 1px 100px;
+	width: 500px;
+	height: 450px;
+	border-radius: 2em;
+}
+
+.art1{
+padding: 1px 1px 1px 230px;
+
+}
+.art2{
+padding: 1px 1px 1px 940px;
+}
+h1{
+	padding: 1px 1px 1px 450px;
+}
+.Millxn{
+	padding: 1px 1px 1px 820px;
+	width: 400px;
+	border-radius: 3em;
+}
+.ar{
+	padding: 1px 1px 1px 550px;
+}
